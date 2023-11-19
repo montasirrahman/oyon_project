@@ -1,0 +1,27 @@
+.trip-logo {
+  max-width: 100px;
+}
+.trip-link {
+  background: linear-gradient(
+    45deg,
+    rgba(36, 130, 174, 0.54),
+    rgba(24, 89, 119, 0.85)
+  );
+  border-radius: 4px;
+  color: #fff;
+}
+.parent {
+  border: 0px solid black;
+  margin: 0rem;
+  padding: 1rem 1rem;
+  text-align: center;
+}
+.child {
+  display: inline-block;
+  border: 0px solid red;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+a {
+  text-decoration: none;
+}
